@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/D:/landscaping%20guide/landscaping.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/landscaping%20guide/landscaping.ditamap">Landscaping Design Manual</title>
+    <topicref class="- map/topicref " first_topic_id="#unique_1" href="#unique_1" id="unique_1" ohref="Topics/applicability_of_the_design_manual.dita" type="topic" xtrc="topicref:1;5:70" xtrf="file:/D:/landscaping%20guide/landscaping.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="applicability_of_the_design_manual"><resourceid appid="applicability_of_the_design_manual" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Applicability of the Design Manual</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Applicability of the Design Manual</linktext></topicmeta></topicref>
+    
+    <topicref class="- map/topicref " first_topic_id="#unique_2" href="#unique_2" id="unique_2" ohref="Topics/about_landscaping.dita" type="topic" xtrc="topicref:2;8:53" xtrf="file:/D:/landscaping%20guide/landscaping.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="about_landscaping"><resourceid appid="about_landscaping" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">About Landscaping</navtitle><?ditaot gentext?><linktext class="- map/linktext ">About Landscaping</linktext></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_3" href="#unique_3" id="unique_3" ohref="Topics/landscape_design_considerations.dita" type="topic" xtrc="topicref:3;9:67" xtrf="file:/D:/landscaping%20guide/landscaping.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="landscape_design_considerations"><resourceid appid="landscape_design_considerations" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Landscape Design Considerations</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Landscape Design Considerations</linktext></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_4" href="#unique_4" id="unique_4" ohref="Topics/landscape_design_goals.dita" type="topic" xtrc="topicref:4;10:58" xtrf="file:/D:/landscaping%20guide/landscaping.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="landscape_design_goals"><resourceid appid="landscape_design_goals" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Landscape Design Goals</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Landscape Design Goals</linktext></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_5" href="#unique_5" id="unique_5" ohref="Topics/water_conservation_principles_in_landscape_design.dita" type="topic" xtrc="topicref:5;11:85" xtrf="file:/D:/landscaping%20guide/landscaping.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="water_conservation_principles_in_landscape_design"><resourceid appid="water_conservation_principles_in_landscape_design" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Water Conservation Principles in Landscape Design</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Water Conservation Principles in Landscape Design</linktext></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_6" href="#unique_6" id="unique_6" ohref="Topics/design_proposal_procedure.dita" type="topic" xtrc="topicref:6;12:61" xtrf="file:/D:/landscaping%20guide/landscaping.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="design_proposal_procedure"><resourceid appid="design_proposal_procedure" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Design Proposal - Procedure</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Design Proposal - Procedure</linktext></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_7" href="#unique_7" id="unique_7" ohref="Topics/design_review_approval_of_preliminary_landscape_design_plan.dita" type="topic" xtrc="topicref:7;13:95" xtrf="file:/D:/landscaping%20guide/landscaping.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="design_review_approval_of_preliminary_landscape_design_plan"><resourceid appid="design_review_approval_of_preliminary_landscape_design_plan" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Design Review approval of Preliminary Landscape Design Plan</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Design Review approval of Preliminary Landscape Design Plan</linktext></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_8" href="#unique_8" id="unique_8" ohref="Topics/plan_check_approval_of_landscape_design_plan_and_irrigation_design_plan.dita" type="topic" xtrc="topicref:8;14:107" xtrf="file:/D:/landscaping%20guide/landscaping.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="plan_check_approval_of_landscape_design_plan_and_irrigation_design_plan"><resourceid appid="plan_check_approval_of_landscape_design_plan_and_irrigation_design_plan" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Plan Check approval of Landscape Design Plan and Irrigation Design Plan</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Plan Check approval of Landscape Design Plan and Irrigation Design Plan</linktext></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_9" href="#unique_9" id="unique_9" ohref="Topics/certificate_of_completion.dita" type="topic" xtrc="topicref:9;15:61" xtrf="file:/D:/landscaping%20guide/landscaping.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="certificate_of_completion"><resourceid appid="certificate_of_completion" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Certificate of Completion</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Certificate of Completion</linktext></topicmeta></topicref>
+</opentopic:map><topic class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_1" oid="applicability_of_the_design_manual" specializations="@props/deliveryTarget" xtrc="topic:1;3:48" xtrf="file:/D:/landscaping%20guide/Topics/applicability_of_the_design_manual.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/landscaping%20guide/Topics/applicability_of_the_design_manual.dita">Applicability of the Design Manual</title>
+    <body class="- topic/body " xtrc="body:1;5:11" xtrf="file:/D:/landscaping%20guide/Topics/applicability_of_the_design_manual.dita">
+        <p class="- topic/p " xtrc="p:1;6:12" xtrf="file:/D:/landscaping%20guide/Topics/applicability_of_the_design_manual.dita">The design manual shall apply to all new and rehabilitated landscaping undertaken in
+            conjunction with any public agency or private development project, which project
+            otherwise requires a grading, building,or use permit, provided that homeowner provided
+            landscaping within single-family and multiple-family residential projects shall be
+            exempt.</p>
+        <p class="- topic/p " xtrc="p:2;11:12" xtrf="file:/D:/landscaping%20guide/Topics/applicability_of_the_design_manual.dita">It is recommended that the guidelines be followed for all public agency projects,
+            however, review of plans by the City's Design Review Committee shall not be
+            mandatory.</p>
+    </body>
+</topic><topic class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_2" oid="about_landscaping" specializations="@props/deliveryTarget" xtrc="topic:1;3:31" xtrf="file:/D:/landscaping%20guide/Topics/about_landscaping.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/landscaping%20guide/Topics/about_landscaping.dita">About Landscaping</title>
+    <body class="- topic/body " xtrc="body:1;5:11" xtrf="file:/D:/landscaping%20guide/Topics/about_landscaping.dita">
+        <p class="- topic/p " xtrc="p:1;6:12" xtrf="file:/D:/landscaping%20guide/Topics/about_landscaping.dita">The design and installation of landscaping and irrigation systems is to enhance the
+            visual quality of the environment. It involves suitable landscape design, planting,
+            maintenance, and therefore to recognize and encourage scientific principles and
+            techniques in landscaping.</p>
+        <image align="center" class="- topic/image " href="Topics/images/1.png" id="unique_2_Connect_42_image_yp1_ygm_g3c" placement="inline" scale="80" xtrc="image:1;10:88" xtrf="file:/D:/landscaping%20guide/Topics/about_landscaping.dita"/>
+    </body>
+</topic><topic class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_3" oid="landscape_design_considerations" specializations="@props/deliveryTarget" xtrc="topic:1;3:45" xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_considerations.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_considerations.dita">Landscape Design Considerations</title>
+    <body class="- topic/body " xtrc="body:1;5:11" xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_considerations.dita">
+        <p class="- topic/p " xtrc="p:1;6:12" xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_considerations.dita">A number of local conditions and characteristics impact landscape design possibilities
+            and potential within the community, and therefore the structure of this document. First
+            and foremost, the community is located within the Valley, an arid, yet urbanized region.
+            This fact dictates that the encouragement of water efficient landscape design is a
+            prudent act, but moreover, that landscaping has the potential to provide visual and
+            environmental relief within an urban setting. </p>
+        <p class="- topic/p " xtrc="p:2;12:12" xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_considerations.dita">Second, the community lacks an abundance of natural landscape resources, also related to
+            the City's high level of urbanization. The community is essentially flat, lacking
+            distinctive topographic form, and natural areas are virtually non-existent.
+            Consequently, development patterns are such that construction and rehabilitation proceed
+            in the midst of a pre-existing and consistent urban fabric. This necessitates that
+            landscape design respond to the built environment; landscapes must at once enhance
+            function, build order, generate and strengthen identity, and appeal to the community's
+            sense to taste. </p>
+        <p class="- topic/p " xtrc="p:3;20:12" xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_considerations.dita">Finally, it is recognized that the is a community which is essentially built out, with
+            over half of the City's land area devoted to single family residential use. Therefore,
+            development results from infill construction and rehabilitation, with some potential for
+            redevelopment activity. </p>
+        <image align="center" class="- topic/image " href="Topics/images/2.png" id="unique_3_Connect_42_image_ayh_4rm_g3c" placement="inline" scale="50" xtrc="image:1;24:88" xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_considerations.dita"/>
+    </body>
+</topic><topic class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_4" oid="landscape_design_goals" specializations="@props/deliveryTarget" xtrc="topic:1;3:36" xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_goals.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_goals.dita">Landscape Design Goals</title>
+    <body class="- topic/body " xtrc="body:1;5:11" xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_goals.dita">
+        <p class="- topic/p " xtrc="p:1;6:12" xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_goals.dita">A landscape design manual and review procedures consider resource expenditure and ease of
+            use in achieving goals and objectives.</p>
+        <ul class="- topic/ul " id="unique_4_Connect_42_ul_phx_ysm_g3c" xtrc="ul:1;8:33" xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_goals.dita">
+            <li class="- topic/li " xtrc="li:1;9:17" xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_goals.dita">Support environmental conservation and enhancement within the community; recognize
+                that a beautiful and efficient urban landscape design is integral to the community's
+                and region's quality of life.</li>
+            <li class="- topic/li " xtrc="li:2;12:17" xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_goals.dita">Demonstrate and build community supports for a conservation ethic through
+                attractive, low maintenance and water efficient landscape design in the public
+                realm.</li>
+            <li class="- topic/li " xtrc="li:3;15:17" xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_goals.dita">Encourage and require as necessary, aesthetically pleasing and functionally
+                appropriate landscaping for private sector development projects; water efficient
+                landscape design shall be addressed.</li>
+            <li class="- topic/li " xtrc="li:4;18:17" xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_goals.dita">Promote understanding of plant materials; many water conserving species are quite
+                attractive and most conventional landscapes can prosper with much less water.</li>
+            <li class="- topic/li " xtrc="li:5;20:17" xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_goals.dita">Provide standards and guidelines for suitable landscape design, to be used as
+                criteria in the evaluation of design proposals. As far as feasible, criteria and
+                review procedures shall consider ease of implementation.</li>
+        </ul>
+    </body>
+</topic><topic class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_5" oid="water_conservation_principles_in_landscape_design" specializations="@props/deliveryTarget" xtrc="topic:1;3:63" xtrf="file:/D:/landscaping%20guide/Topics/water_conservation_principles_in_landscape_design.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/landscaping%20guide/Topics/water_conservation_principles_in_landscape_design.dita">Water Conservation Principles in Landscape Design</title>
+    <body class="- topic/body " xtrc="body:1;5:11" xtrf="file:/D:/landscaping%20guide/Topics/water_conservation_principles_in_landscape_design.dita">
+        <p class="- topic/p " xtrc="p:1;6:12" xtrf="file:/D:/landscaping%20guide/Topics/water_conservation_principles_in_landscape_design.dita">Incorporate the main principles of water conservation in landscape design: </p>
+        <ul class="- topic/ul " id="unique_5_Connect_42_ul_m3y_stm_g3c" xtrc="ul:1;7:33" xtrf="file:/D:/landscaping%20guide/Topics/water_conservation_principles_in_landscape_design.dita">
+            <li class="- topic/li " xtrc="li:1;8:17" xtrf="file:/D:/landscaping%20guide/Topics/water_conservation_principles_in_landscape_design.dita">water conserving plants; </li>
+            <li class="- topic/li " xtrc="li:2;9:17" xtrf="file:/D:/landscaping%20guide/Topics/water_conservation_principles_in_landscape_design.dita">reduction of turf area </li>
+            <li class="- topic/li " xtrc="li:3;10:17" xtrf="file:/D:/landscaping%20guide/Topics/water_conservation_principles_in_landscape_design.dita">grouping of plants according to watering needs</li>
+            <li class="- topic/li " xtrc="li:4;11:17" xtrf="file:/D:/landscaping%20guide/Topics/water_conservation_principles_in_landscape_design.dita">irrigation to meet plant needs.</li>
+        </ul>
+    </body>
+</topic><topic class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_6" oid="design_proposal_procedure" specializations="@props/deliveryTarget" xtrc="topic:1;3:39" xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita">Design Proposal - Procedure</title>
+    <body class="- topic/body " xtrc="body:1;5:11" xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita">
+        <p class="- topic/p " xtrc="p:1;6:12" xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita">Most landscape design proposals will require a two-step review process as described
+                below:<ul class="- topic/ul " id="unique_6_Connect_42_ul_rhc_l1n_g3c" xtrc="ul:1;7:47" xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita">
+                <li class="- topic/li " xtrc="li:1;8:21" xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita"><xref class="- topic/xref " href="#unique_7" ohref="Topics/design_review_approval_of_preliminary_landscape_design_plan.dita" type="topic" xtrc="xref:1;9:26" xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita"><?ditaot usertext?>Design Review approval of Preliminary Landscape Design Plan.</xref></li>
+                <li class="- topic/li " xtrc="li:2;10:21" xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita"><xref class="- topic/xref " href="#unique_8" ohref="Topics/plan_check_approval_of_landscape_design_plan_and_irrigation_design_plan.dita" type="topic" xtrc="xref:2;12:26" xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita"><?ditaot usertext?>Plan Check approval of Landscape Design Plan and Irrigation Design
+                        Plan.</xref></li>
+            </ul></p>
+        <p class="- topic/p " xtrc="p:2;15:12" xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita">The Landscape Design Plan and Irrigation Design Plan are to be thoroughly checked by
+            City. Staff for substantial compliance with the criteria contained in this document; the
+            Landscape. Design Plan shall be in substantial conformity with the Preliminary Landscape
+            Design Plan.</p>
+        <image align="center" class="- topic/image " href="Topics/images/3.png" id="unique_6_Connect_42_image_zxn_sbn_g3c" placement="inline" scale="50" xtrc="image:1;19:88" xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita"/>
+    </body>
+</topic><topic class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_7" oid="design_review_approval_of_preliminary_landscape_design_plan" specializations="@props/deliveryTarget" xtrc="topic:1;3:73" xtrf="file:/D:/landscaping%20guide/Topics/design_review_approval_of_preliminary_landscape_design_plan.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/landscaping%20guide/Topics/design_review_approval_of_preliminary_landscape_design_plan.dita">Design Review approval of Preliminary Landscape Design Plan</title>
+    <body class="- topic/body " xtrc="body:1;5:11" xtrf="file:/D:/landscaping%20guide/Topics/design_review_approval_of_preliminary_landscape_design_plan.dita">
+        <p class="- topic/p " xtrc="p:1;6:12" xtrf="file:/D:/landscaping%20guide/Topics/design_review_approval_of_preliminary_landscape_design_plan.dita">A Preliminary Landscape Design Plan shall be provided. The Preliminary Plan shall contain
+            the information as described in Chapter 2.0 of this document, to be reviewed by the
+            City's Design Review Committee (DRC) for compliance with the landscape design criteria
+            contained in this document, in addition to the design standards and guidelines as set
+            forth in any other applicable document. The City's Design Review process represents the
+            basis for approval or denial of a design proposal, and no grading, building or use
+            permit can be issued until a project has received approval from the DRC. Decisions .of
+            the DRC are appealable to the City's Planning Commission, whose decisions may in turn be
+            appealed to the City Council.</p>
+    </body>
+</topic><topic class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_8" oid="plan_check_approval_of_landscape_design_plan_and_irrigation_design_plan" specializations="@props/deliveryTarget" xtrc="topic:1;3:85" xtrf="file:/D:/landscaping%20guide/Topics/plan_check_approval_of_landscape_design_plan_and_irrigation_design_plan.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/landscaping%20guide/Topics/plan_check_approval_of_landscape_design_plan_and_irrigation_design_plan.dita">Plan Check approval of Landscape Design Plan and Irrigation Design Plan</title>
+    <body class="- topic/body " xtrc="body:1;5:11" xtrf="file:/D:/landscaping%20guide/Topics/plan_check_approval_of_landscape_design_plan_and_irrigation_design_plan.dita">
+        <p class="- topic/p " xtrc="p:1;6:12" xtrf="file:/D:/landscaping%20guide/Topics/plan_check_approval_of_landscape_design_plan_and_irrigation_design_plan.dita">Following all necessary planning and subdivision approvals, full construction drawings
+            may be submitted to the Building Division for approval through the City's "Plan Check"
+            process. Drawings submitted for Plan Check are to include the entire Landscape
+            Documentation Package as described in Chapter 2.09 of this document, including the
+            Preliminary Landscape Design Plan.</p>
+    </body>
+</topic><topic class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_9" oid="certificate_of_completion" specializations="@props/deliveryTarget" xtrc="topic:1;3:39" xtrf="file:/D:/landscaping%20guide/Topics/certificate_of_completion.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/landscaping%20guide/Topics/certificate_of_completion.dita">Certificate of Completion</title>
+    <body class="- topic/body " xtrc="body:1;5:11" xtrf="file:/D:/landscaping%20guide/Topics/certificate_of_completion.dita">
+        <p class="- topic/p " xtrc="p:1;6:12" xtrf="file:/D:/landscaping%20guide/Topics/certificate_of_completion.dita">Prior to the final of the last applicable project permit, a Certificate of Completion
+            shall be submitted in accordance with Section 153.160.140 of the Zoning Code.</p>
+        <ul class="- topic/ul " id="unique_9_Connect_42_ul_yy4_sdn_g3c" xtrc="ul:1;8:33" xtrf="file:/D:/landscaping%20guide/Topics/certificate_of_completion.dita">
+            <li class="- topic/li " xtrc="li:1;9:17" xtrf="file:/D:/landscaping%20guide/Topics/certificate_of_completion.dita">It is encouraged that licensed design professionals be hired for the preparation of
+                all plans submitted in fulfilment of this document's requirements. Such individuals
+                should be consulted at the earliest stages for a coordinated project proposal.</li>
+            <li class="- topic/li " xtrc="li:2;12:17" xtrf="file:/D:/landscaping%20guide/Topics/certificate_of_completion.dita">It is encouraged that licensed design professionals be hired for the preparation of
+                all plans submitted in fulfilment of this document's requirements. Such individuals
+                should be consulted at the earliest stages for a coordinated project proposal</li>
+            <li class="- topic/li " xtrc="li:3;15:17" xtrf="file:/D:/landscaping%20guide/Topics/certificate_of_completion.dita">It is not the intent of this Manual to stifle creativity or the creative process.
+                Deviations from specific guidelines will be considered by the DRC, and must exhibit
+                a superior approach to fulfilling the goals and objectives of the Landscape Design
+                Manual.</li>
+        </ul>
+    </body>
+</topic><opentopic-index:index.groups/></map>

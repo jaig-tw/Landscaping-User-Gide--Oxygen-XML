@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\Writer\oxygen\temp\pdf\oxygen?><?workdir-uri file:/D:/Writer/oxygen/temp/pdf/oxygen/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Glossary Entry//EN?><?doctype-system glossaryentry.dtd?><glossentry xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="glossary" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic concept glossentry) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic abbrev-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept glossentry/glossentry " xtrf="file:/D:/Writer/oxygen/glossary.dita" xtrc="glossentry:1;3:27" specializations="@props/deliveryTarget">
+    <glossterm class="- topic/title concept/title glossentry/glossterm " xtrf="file:/D:/Writer/oxygen/glossary.dita" xtrc="glossterm:1;4:16">Runoff</glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef " xtrf="file:/D:/Writer/oxygen/glossary.dita" xtrc="glossdef:1;5:15">Water which is not absorbed by the soil or landscape to which it is applied, and flows
+        from the area</glossdef>
+    <glossterm class="- topic/title concept/title glossentry/glossterm " xtrf="file:/D:/Writer/oxygen/glossary.dita" xtrc="glossterm:2;7:16">Turf</glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef " xtrf="file:/D:/Writer/oxygen/glossary.dita" xtrc="glossdef:2;8:15">Aground cover surface of mowed grass or sod</glossdef>
+    <glossterm class="- topic/title concept/title glossentry/glossterm " xtrf="file:/D:/Writer/oxygen/glossary.dita" xtrc="glossterm:3;9:16">Valve</glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef " xtrf="file:/D:/Writer/oxygen/glossary.dita" xtrc="glossdef:3;10:15">A device used to control the flow of water in the irrigation system</glossdef>
+    <glossterm class="- topic/title concept/title glossentry/glossterm " xtrf="file:/D:/Writer/oxygen/glossary.dita" xtrc="glossterm:4;11:16">Xeriscape</glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef " xtrf="file:/D:/Writer/oxygen/glossary.dita" xtrc="glossdef:4;12:15">A combination of landscape features and techniques that reduce the demand for and
+        consumption of water, including the use of efficient irrigation methods and plants with low
+        water needs</glossdef>
+</glossentry>

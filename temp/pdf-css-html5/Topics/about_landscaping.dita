@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\landscaping guide\temp\pdf-css-html5\Topics?><?workdir-uri file:/D:/landscaping%20guide/temp/pdf-css-html5/Topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="about_landscaping" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/D:/landscaping%20guide/Topics/about_landscaping.dita" xtrc="topic:1;3:31" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/landscaping%20guide/Topics/about_landscaping.dita" xtrc="title:1;4:12">About Landscaping</title>
+    <body class="- topic/body " xtrf="file:/D:/landscaping%20guide/Topics/about_landscaping.dita" xtrc="body:1;5:11">
+        <p class="- topic/p " xtrf="file:/D:/landscaping%20guide/Topics/about_landscaping.dita" xtrc="p:1;6:12">The design and installation of landscaping and irrigation systems is to enhance the
+            visual quality of the environment. It involves suitable landscape design, planting,
+            maintenance, and therefore to recognize and encourage scientific principles and
+            techniques in landscaping.</p>
+        <image href="images/1.png" id="image_yp1_ygm_g3c" scale="80" align="center" placement="inline" class="- topic/image " xtrf="file:/D:/landscaping%20guide/Topics/about_landscaping.dita" xtrc="image:1;10:88"/>
+    </body>
+</topic>

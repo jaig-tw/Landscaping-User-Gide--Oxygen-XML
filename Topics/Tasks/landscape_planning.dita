@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="landscape_planning">
+    <title>Steps to do plan a landscape </title>
+    <shortdesc>A simple worksheet to do landscape planning.</shortdesc>
+    <taskbody><context><p> It is a widely accepted worksheet for landscape designers and planners</p></context><steps>
+            <step><cmd> Decide why you want a landscape. </cmd><info>
+                                        <image placement="break" href="../../Images/lp1.png"
+                                                scale="40" align="center" id="image_wdf_l3j_k3c"/>
+                                </info></step>
+            <step><cmd> Obtain a soil analysis. </cmd><info>
+                                        <image placement="break" href="../../Images/lp2.png"
+                                                align="center" id="image_gdg_r2j_k3c" scale="40"/>
+                                </info></step>
+            <step><cmd> Draw a site plan. </cmd><info>
+                                        <image placement="break" href="../../Images/lp3.png"
+                                                scale="40" align="center" id="image_msw_52j_k3c"/>
+                                </info></step>
+            <step>
+                                <cmd> Inventory your landscape.  </cmd>
+                                <info>
+                                        <image placement="break" href="../../Images/lp4.png"
+                                                align="center" id="image_sqq_z2j_k3c" scale="40"/>
+                                </info>
+                        </step>
+            <step><cmd> Draw an activity diagram. </cmd><info>
+                                        <image placement="break" href="../../Images/lp5.png"
+                                                scale="30" align="center" id="image_ozj_cfj_k3c"/>
+                                </info></step>
+            <step><cmd> Create a landscape plan. </cmd><info>
+                                        <image placement="break" href="../../Images/lp6.png"
+                                                scale="40" align="center" id="image_eyp_2fj_k3c"/>
+                                </info></step>
+        </steps></taskbody>
+</task>

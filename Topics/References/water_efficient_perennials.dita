@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="water_efficient_perennials">
+    <title>Water-efficient perennials</title>
+    <conbody><section>
+        <p>
+            <table frame="all" rowsep="1" colsep="1" id="table_ky5_t3t_33c">
+                <title>Water-efficient Perennials, Bulbs, and Annuals</title>
+                <tgroup cols="2">
+                    <colspec colnum="1" colname="c1" colwidth="1*"/>
+                    <colspec colnum="2" colname="c2" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry align="left">Common Name</entry>
+                            <entry align="left">Botanical Name</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Yarrow</entry>
+                            <entry><i>Achillea spp* </i></entry>
+                        </row>
+                        <row>
+                            <entry>Lily of the Nile</entry>
+                            <entry><i>Agave spp* </i></entry>
+                        </row>
+                        <row>
+                            <entry>Aloe</entry>
+                            <entry><i>Aloe spp* </i></entry>
+                        </row>
+                        <row>
+                            <entry>Alyssum</entry>
+                            <entry><i>Amaryllis belladonna* </i></entry>
+                        </row>
+                        <row>
+                            <entry>Anacyclus</entry>
+                            <entry><i>Anacyclus depressus </i></entry>
+                        </row>
+                        <row>
+                            <entry>Columbrine</entry>
+                            <entry><i>Aquilegia spp</i></entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </section></conbody>
+</concept>

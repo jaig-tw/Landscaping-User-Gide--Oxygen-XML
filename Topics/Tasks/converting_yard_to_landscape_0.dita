@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="converting_yard_to_landscape_0">
+    <title>Steps to convert a yard to landscape</title>
+    <shortdesc>A seven-step process for yard to landscape conversion</shortdesc>
+    <taskbody><context><p> Converting an established yard to a friendly landscape can be done most effectively in
+            about three years and seven steps.</p></context><steps>
+            <step><cmd> Develop a master plan. </cmd></step>
+            <step><cmd> Install Hardscapes - Patios, Walkways, Decks, Pools, etc. </cmd></step>
+            <step><cmd> Create new tree beds </cmd></step>
+            <step><cmd> Install trees </cmd></step>
+            <step><cmd> Prepare plant beds </cmd></step>
+            <step><cmd> Install plant beds </cmd></step>
+            <step><cmd> Repeat steps 5 &amp; 6 </cmd></step>
+        </steps></taskbody>
+</task>

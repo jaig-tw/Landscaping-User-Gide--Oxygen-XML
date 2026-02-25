@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="design_proposal_procedure">
+    <title>Design proposal - procedure</title>
+    <shortdesc>The Landscape Design Plan and Irrigation Design Plan are to be thoroughly checked by
+        City. Staff for substantial compliance with the criteria contained in this document; the
+        Landscape. Design Plan shall be in substantial conformity with the Preliminary Landscape
+        Design Plan. </shortdesc>
+    <taskbody><context><p>Most landscape design proposals will require a two-step review process as described below </p></context><steps>
+            <step><cmd> Design Review approval of Preliminary Landscape Design Plan. </cmd></step>
+            <step><cmd> Plan Check approval of Landscape Design Plan and Irrigation Design Plan. </cmd></step>
+            <step><cmd>
+                </cmd><info><p
+                    conref="Concepts/applicability_of_the_design_manual.dita#applicability_of_the_design_manual/P1"
+                />
+            </info></step>
+        </steps></taskbody>
+</task>

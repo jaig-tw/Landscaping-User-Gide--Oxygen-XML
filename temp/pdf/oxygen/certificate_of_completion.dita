@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\Writer\oxygen\temp\pdf\oxygen?><?workdir-uri file:/D:/Writer/oxygen/temp/pdf/oxygen/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="certificate_of_completion" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/D:/Writer/oxygen/certificate_of_completion.dita" xtrc="topic:1;3:39" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/Writer/oxygen/certificate_of_completion.dita" xtrc="title:1;4:12">Certificate of Completion</title>
+    <body class="- topic/body " xtrf="file:/D:/Writer/oxygen/certificate_of_completion.dita" xtrc="body:1;5:11">
+        <p class="- topic/p " xtrf="file:/D:/Writer/oxygen/certificate_of_completion.dita" xtrc="p:1;6:12">Prior to the final of the last applicable project permit, a Certificate of Completion
+            shall be submitted in accordance with Section 153.160.140 of the Zoning Code.</p>
+        <ul id="ul_yy4_sdn_g3c" class="- topic/ul " xtrf="file:/D:/Writer/oxygen/certificate_of_completion.dita" xtrc="ul:1;8:33">
+            <li class="- topic/li " xtrf="file:/D:/Writer/oxygen/certificate_of_completion.dita" xtrc="li:1;9:17">It is encouraged that licensed design professionals be hired for the preparation of
+                all plans submitted in fulfilment of this document's requirements. Such individuals
+                should be consulted at the earliest stages for a coordinated project proposal.</li>
+            <li class="- topic/li " xtrf="file:/D:/Writer/oxygen/certificate_of_completion.dita" xtrc="li:2;12:17">It is encouraged that licensed design professionals be hired for the preparation of
+                all plans submitted in fulfilment of this document's requirements. Such individuals
+                should be consulted at the earliest stages for a coordinated project proposal</li>
+            <li class="- topic/li " xtrf="file:/D:/Writer/oxygen/certificate_of_completion.dita" xtrc="li:3;15:17">It is not the intent of this Manual to stifle creativity or the creative process.
+                Deviations from specific guidelines will be considered by the DRC, and must exhibit
+                a superior approach to fulfilling the goals and objectives of the Landscape Design
+                Manual.</li>
+        </ul>
+    </body>
+</topic>

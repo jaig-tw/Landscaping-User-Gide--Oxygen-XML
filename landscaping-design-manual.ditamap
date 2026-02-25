@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Landscaping Design Manual</title>
+    <topicref href="Topics/Concepts/how_to_use_this_manual.dita"/>
+    <topicref href="Topics/Concepts/applicability_of_the_design_manual.dita"/>
+    <topichead navtitle="Landscaping - a brief introduction" type="topic" scope="peer" format="dita"
+        processing-role="resource-only"/>
+    <topicref href="Topics/Concepts/about_landscaping.dita"/>
+    <topicref href="Topics/Concepts/landscape_design_considerations.dita"/>
+    <topicref href="Topics/Concepts/landscape_design_goals.dita"/>
+    <topicref href="Topics/Concepts/water_conservation_principles_in_landscape_design.dita"/>
+    <topicref href="Topics/Concepts/water_efficient_plants.dita">
+        <topicref href="Topics/References/water_efficient_trees.dita"/>
+        <topicref href="Topics/References/water_effiicient_shrubs.dita"/>
+        <topicref href="Topics/References/water_efficient_perennials.dita"/>
+    </topicref>
+    <topicref href="Topics/Concepts/converting_yard_to_landscape.dita">
+        <topicref href="Topics/Tasks/converting_yard_to_landscape_0.dita"/>
+    </topicref>
+    <topicref href="Topics/Concepts/landscape_planning.dita">
+        <topicref href="Topics/Tasks/landscape_planning.dita"/>
+    </topicref>
+    <topicref href="Topics/Concepts/common_gardening_mistakes.dita"/>
+    <topicref href="Topics/Concepts/design_proposal.dita">
+        <topicref href="Topics/design_proposal_procedure.dita"/>
+        <topicref href="Topics/plan_check_approval.dita"/>
+    </topicref>
+    <topicref href="Topics/Concepts/certificate_of_completion.dita"/>
+</map>

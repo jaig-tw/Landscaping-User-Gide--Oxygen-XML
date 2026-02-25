@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\OXygen xml Dita\landscaping guide\temp\pdf-css-html5\oxygen_dita_temp\Topics\References?><?workdir-uri file:/D:/OXygen%20xml%20Dita/landscaping%20guide/temp/pdf-css-html5/oxygen_dita_temp/Topics/References/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="water_efficient_perennials" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="concept:1;3:42" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="title:1;4:12">Water-efficient perennials</title>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="conbody:1;5:14"><section class="- topic/section " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="section:1;5:23">
+        <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="p:1;6:12">
+            <table frame="all" rowsep="1" colsep="1" id="table_ky5_t3t_33c" class="- topic/table " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="table:1;7:77">
+                <title class="- topic/title " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="title:2;8:24">Water-efficient Perennials, Bulbs, and Annuals</title>
+                <tgroup cols="2" class="- topic/tgroup " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="tgroup:1;9:34">
+                    <colspec colnum="1" colname="col1" colwidth="1*" class="- topic/colspec " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="colspec:1;10:69"/>
+                    <colspec colnum="2" colname="col2" colwidth="1*" class="- topic/colspec " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="colspec:2;11:69"/>
+                    <thead class="- topic/thead " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="thead:1;12:28">
+                        <row class="- topic/row " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="row:1;13:30">
+                            <entry align="left" class="- topic/entry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="entry:1;14:49" colname="col1" dita-ot:x="1" dita-ot:y="1">Common Name</entry>
+                            <entry align="left" class="- topic/entry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="entry:2;15:49" colname="col2" dita-ot:x="2" dita-ot:y="1">Botanical Name</entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="tbody:1;18:28">
+                        <row class="- topic/row " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="row:2;19:30">
+                            <entry class="- topic/entry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="entry:3;20:36" colname="col1" dita-ot:x="1" dita-ot:y="2">Yarrow</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="entry:4;21:36" colname="col2" dita-ot:x="2" dita-ot:y="2"><i class="+ topic/ph hi-d/i " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="i:1;21:39">Achillea spp* </i></entry>
+                        </row>
+                        <row class="- topic/row " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="row:3;23:30">
+                            <entry class="- topic/entry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="entry:5;24:36" colname="col1" dita-ot:x="1" dita-ot:y="3">Lily of the Nile</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="entry:6;25:36" colname="col2" dita-ot:x="2" dita-ot:y="3"><i class="+ topic/ph hi-d/i " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="i:2;25:39">Agave spp* </i></entry>
+                        </row>
+                        <row class="- topic/row " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="row:4;27:30">
+                            <entry class="- topic/entry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="entry:7;28:36" colname="col1" dita-ot:x="1" dita-ot:y="4">Aloe</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="entry:8;29:36" colname="col2" dita-ot:x="2" dita-ot:y="4"><i class="+ topic/ph hi-d/i " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="i:3;29:39">Aloe spp* </i></entry>
+                        </row>
+                        <row class="- topic/row " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="row:5;31:30">
+                            <entry class="- topic/entry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="entry:9;32:36" colname="col1" dita-ot:x="1" dita-ot:y="5">Alyssum</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="entry:10;33:36" colname="col2" dita-ot:x="2" dita-ot:y="5"><i class="+ topic/ph hi-d/i " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="i:4;33:39">Amaryllis belladonna* </i></entry>
+                        </row>
+                        <row class="- topic/row " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="row:6;35:30">
+                            <entry class="- topic/entry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="entry:11;36:36" colname="col1" dita-ot:x="1" dita-ot:y="6">Anacyclus</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="entry:12;37:36" colname="col2" dita-ot:x="2" dita-ot:y="6"><i class="+ topic/ph hi-d/i " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="i:5;37:39">Anacyclus depressus </i></entry>
+                        </row>
+                        <row class="- topic/row " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="row:7;39:30">
+                            <entry class="- topic/entry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="entry:13;40:36" colname="col1" dita-ot:x="1" dita-ot:y="7">Columbrine</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="entry:14;41:36" colname="col2" dita-ot:x="2" dita-ot:y="7"><i class="+ topic/ph hi-d/i " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_perennials.dita" xtrc="i:6;41:39">Aquilegia spp</i></entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </section></conbody>
+</concept>

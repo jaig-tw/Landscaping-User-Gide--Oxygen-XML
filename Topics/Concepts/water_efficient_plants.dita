@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="water_efficient_plants">
+    <title>Water-efficient plants</title>
+    <conbody>
+        <p>This list contains the names of various plant materials that are typically attractive and
+            water conserving. Some are native to the city, others from areas with similar
+            climate.</p>
+        <p>Plants adapted to the city's dry climate are naturally suited to less water, and once
+            established, many species perform best with infrequent, deep watering. </p>
+        <p>We have:<ul id="ul_ijz_b5s_33c">
+                <li>Water-efficient Trees</li>
+                <li>Water-efficient Shrubs</li>
+                <li>Water-efficient Perennials</li>
+            </ul></p>
+        <note type="note">
+            <p>For further information, the Garden Book is an effective reference. Those plant types
+                marked with and asterisk (*) are especially water efficient and adapted to the city
+                climate.</p>
+        </note>
+    </conbody>
+</concept>

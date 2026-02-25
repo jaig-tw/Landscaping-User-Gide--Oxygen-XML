@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\OXygen xml Dita\landscaping guide\temp\pdf-css-html5\oxygen_dita_temp\Topics\References?><?workdir-uri file:/D:/OXygen%20xml%20Dita/landscaping%20guide/temp/pdf-css-html5/oxygen_dita_temp/Topics/References/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="water_effcient_trees" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="concept:1;3:36" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="title:1;4:12">Water-efficient trees</title>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="conbody:1;5:14"><section class="- topic/section " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="section:1;5:23">
+        <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_h14_wct_33c" class="- topic/simpletable " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="simpletable:1;6:83">
+            <sthead class="- topic/sthead " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="sthead:1;7:21">
+                <stentry class="- topic/stentry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="stentry:1;8:26" dita-ot:x="1" dita-ot:y="1">Common Name</stentry>
+                <stentry class="- topic/stentry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="stentry:2;9:26" dita-ot:x="2" dita-ot:y="1">Botanic Name</stentry>
+            </sthead>
+            <strow class="- topic/strow " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="strow:1;11:20">
+                <stentry class="- topic/stentry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="stentry:3;12:26" dita-ot:x="1" dita-ot:y="2">
+                    <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="p:1;13:24">Mexican Blue Palm</p>
+                </stentry>
+                <stentry class="- topic/stentry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="stentry:4;15:26" dita-ot:x="2" dita-ot:y="2">
+                    <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="p:2;16:24"><i class="+ topic/ph hi-d/i " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="i:1;16:27">Brahea armata* </i></p>
+                </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="strow:2;19:20">
+                <stentry class="- topic/stentry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="stentry:5;20:26" dita-ot:x="1" dita-ot:y="3">
+                    <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="p:3;21:24">Guadalupe Palm</p>
+                </stentry>
+                <stentry class="- topic/stentry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="stentry:6;23:26" dita-ot:x="2" dita-ot:y="3">
+                    <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="p:4;24:24"><i class="+ topic/ph hi-d/i " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="i:2;24:27">Brahea edulis </i></p>
+                </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="strow:3;27:20">
+                <stentry class="- topic/stentry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="stentry:7;28:26" dita-ot:x="1" dita-ot:y="4">
+                    <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="p:5;29:24">Pindo Palm</p>
+                </stentry>
+                <stentry class="- topic/stentry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="stentry:8;31:26" dita-ot:x="2" dita-ot:y="4">
+                    <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="p:6;32:24"><i class="+ topic/ph hi-d/i " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="i:3;32:27">Butia capitata* </i></p>
+                </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="strow:4;35:20">
+                <stentry class="- topic/stentry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="stentry:9;36:26" dita-ot:x="1" dita-ot:y="5">
+                    <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="p:7;37:24">Bottle Brush</p>
+                </stentry>
+                <stentry class="- topic/stentry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="stentry:10;39:26" dita-ot:x="2" dita-ot:y="5">
+                    <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="p:8;40:24"><i class="+ topic/ph hi-d/i " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="i:4;40:27">Callistemon citrinus* </i></p>
+                </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="strow:5;43:20">
+                <stentry class="- topic/stentry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="stentry:11;44:26" dita-ot:x="1" dita-ot:y="6">
+                    <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="p:9;45:24">Weeping Bottlebrush</p>
+                </stentry>
+                <stentry class="- topic/stentry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="stentry:12;47:26" dita-ot:x="2" dita-ot:y="6">
+                    <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="p:10;48:24"><i class="+ topic/ph hi-d/i " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="i:5;48:27">Callistemon viminalis </i></p>
+                </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="strow:6;51:20">
+                <stentry class="- topic/stentry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="stentry:13;52:26" dita-ot:x="1" dita-ot:y="7">
+                    <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="p:11;53:24">Incense Cedar</p>
+                </stentry>
+                <stentry class="- topic/stentry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="stentry:14;55:26" dita-ot:x="2" dita-ot:y="7">
+                    <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="p:12;56:24"><i class="+ topic/ph hi-d/i " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="i:6;56:27">Calocedrus decurrens </i></p>
+                </stentry>
+            </strow>
+            <strow class="- topic/strow " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="strow:7;59:20">
+                <stentry class="- topic/stentry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="stentry:15;60:26" dita-ot:x="1" dita-ot:y="8">
+                    <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="p:13;61:24">Crown of God Tree</p>
+                </stentry>
+                <stentry class="- topic/stentry " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="stentry:16;63:26" dita-ot:x="2" dita-ot:y="8">
+                    <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="p:14;64:24"><i class="+ topic/ph hi-d/i " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="i:7;64:27">Cassia xcelsa </i></p>
+                </stentry>
+            </strow>
+        </simpletable>
+        <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/References/water_efficient_trees.dita" xtrc="p:15;68:12"> </p>
+    </section></conbody>
+</concept>

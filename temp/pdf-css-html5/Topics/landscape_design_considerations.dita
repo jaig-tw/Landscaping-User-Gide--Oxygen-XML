@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\landscaping guide\temp\pdf-css-html5\Topics?><?workdir-uri file:/D:/landscaping%20guide/temp/pdf-css-html5/Topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="landscape_design_considerations" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_considerations.dita" xtrc="topic:1;3:45" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_considerations.dita" xtrc="title:1;4:12">Landscape Design Considerations</title>
+    <body class="- topic/body " xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_considerations.dita" xtrc="body:1;5:11">
+        <p class="- topic/p " xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_considerations.dita" xtrc="p:1;6:12">A number of local conditions and characteristics impact landscape design possibilities
+            and potential within the community, and therefore the structure of this document. First
+            and foremost, the community is located within the Valley, an arid, yet urbanized region.
+            This fact dictates that the encouragement of water efficient landscape design is a
+            prudent act, but moreover, that landscaping has the potential to provide visual and
+            environmental relief within an urban setting. </p>
+        <p class="- topic/p " xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_considerations.dita" xtrc="p:2;12:12">Second, the community lacks an abundance of natural landscape resources, also related to
+            the City's high level of urbanization. The community is essentially flat, lacking
+            distinctive topographic form, and natural areas are virtually non-existent.
+            Consequently, development patterns are such that construction and rehabilitation proceed
+            in the midst of a pre-existing and consistent urban fabric. This necessitates that
+            landscape design respond to the built environment; landscapes must at once enhance
+            function, build order, generate and strengthen identity, and appeal to the community's
+            sense to taste. </p>
+        <p class="- topic/p " xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_considerations.dita" xtrc="p:3;20:12">Finally, it is recognized that the is a community which is essentially built out, with
+            over half of the City's land area devoted to single family residential use. Therefore,
+            development results from infill construction and rehabilitation, with some potential for
+            redevelopment activity. </p>
+        <image href="images/2.png" id="image_ayh_4rm_g3c" scale="50" align="center" placement="inline" class="- topic/image " xtrf="file:/D:/landscaping%20guide/Topics/landscape_design_considerations.dita" xtrc="image:1;24:88"/>
+    </body>
+</topic>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\OXygen xml Dita\landscaping guide\temp\pdf-css-html5\oxygen_dita_temp\Topics\Concepts?><?workdir-uri file:/D:/OXygen%20xml%20Dita/landscaping%20guide/temp/pdf-css-html5/oxygen_dita_temp/Topics/Concepts/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="water_efficient_plants" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/water_efficient_plants.dita" xtrc="concept:1;3:38" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/water_efficient_plants.dita" xtrc="title:1;4:12">Water-efficient plants</title>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/water_efficient_plants.dita" xtrc="conbody:1;5:14">
+        <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/water_efficient_plants.dita" xtrc="p:1;6:12">This list contains the names of various plant materials that are typically attractive and
+            water conserving. Some are native to the city, others from areas with similar
+            climate.</p>
+        <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/water_efficient_plants.dita" xtrc="p:2;9:12">Plants adapted to the city's dry climate are naturally suited to less water, and once
+            established, many species perform best with infrequent, deep watering. </p>
+        <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/water_efficient_plants.dita" xtrc="p:3;11:12">We have:<ul id="ul_ijz_b5s_33c" class="- topic/ul " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/water_efficient_plants.dita" xtrc="ul:1;11:44">
+                <li class="- topic/li " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/water_efficient_plants.dita" xtrc="li:1;12:21">Water-effcient Trees</li>
+                <li class="- topic/li " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/water_efficient_plants.dita" xtrc="li:2;13:21">Water-efficient Shrubs</li>
+                <li class="- topic/li " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/water_efficient_plants.dita" xtrc="li:3;14:21">Water-efficient Perennials</li>
+            </ul></p>
+        <note type="note" class="- topic/note " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/water_efficient_plants.dita" xtrc="note:1;16:27">
+            <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/water_efficient_plants.dita" xtrc="p:4;17:16">For further information, the Garden Book is an effective reference. Those plant types
+                marked with and asterisk (*) are especially water efficient and adapted to the city
+                climate.</p>
+        </note>
+    </conbody>
+</concept>

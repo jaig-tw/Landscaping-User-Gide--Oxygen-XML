@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\OXygen xml Dita\landscaping guide\temp\pdf-css-html5\oxygen_dita_temp\Topics\Concepts?><?workdir-uri file:/D:/OXygen%20xml%20Dita/landscaping%20guide/temp/pdf-css-html5/oxygen_dita_temp/Topics/Concepts/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="common_gardening_mistakes" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/common_gardening_mistakes.dita" xtrc="concept:1;3:41" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/common_gardening_mistakes.dita" xtrc="title:1;4:12">Common gardening mistakes</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/common_gardening_mistakes.dita" xtrc="shortdesc:1;5:16">Common gardening mistakes to avoid</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/common_gardening_mistakes.dita" xtrc="conbody:1;6:14">
+        <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/common_gardening_mistakes.dita" xtrc="p:1;7:12">Some gardening may create a lot of issues leading to pest and disease problems, wastes
+            water, and can wash pollutants into water bodies. Some may even lead to cramped and weak
+            trees, insect development and even to the pollution of the garden.</p>
+        <p class="- topic/p " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/common_gardening_mistakes.dita" xtrc="p:2;10:12">These mistakes are to be avoided:<ul id="ol_h4s_dxy_33c" class="- topic/ul " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/common_gardening_mistakes.dita" xtrc="ul:1;10:69">
+                <li class="- topic/li " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/common_gardening_mistakes.dita" xtrc="li:1;11:21">Over watering - watering to the point of run off or leaching.</li>
+                <li class="- topic/li " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/common_gardening_mistakes.dita" xtrc="li:2;12:21">Over planting - designing a landscape with more plants that can adequately be
+                    sustained.</li>
+                <li class="- topic/li " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/common_gardening_mistakes.dita" xtrc="li:3;14:21">Over pruning - removing more foliage or branches from a plant than is healthy
+                    for it</li>
+                <li class="- topic/li " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/common_gardening_mistakes.dita" xtrc="li:4;16:21">Fertilizing inappropriately - applying more fertilizers than necessary</li>
+                <li class="- topic/li " xtrf="file:/D:/OXygen%20xml%20Dita/landscaping%20guide/Topics/Concepts/common_gardening_mistakes.dita" xtrc="li:5;17:21">Using pesticides incorrectly - applying more or Wong pesticides</li>
+            </ul></p>
+    </conbody>
+</concept>

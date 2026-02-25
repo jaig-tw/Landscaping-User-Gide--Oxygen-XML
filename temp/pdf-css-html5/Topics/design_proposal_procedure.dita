@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\landscaping guide\temp\pdf-css-html5\Topics?><?workdir-uri file:/D:/landscaping%20guide/temp/pdf-css-html5/Topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="design_proposal_procedure" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita" xtrc="topic:1;3:39" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita" xtrc="title:1;4:12">Design Proposal - Procedure</title>
+    <body class="- topic/body " xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita" xtrc="body:1;5:11">
+        <p class="- topic/p " xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita" xtrc="p:1;6:12">Most landscape design proposals will require a two-step review process as described
+                below:<ul id="ul_rhc_l1n_g3c" class="- topic/ul " xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita" xtrc="ul:1;7:47">
+                <li class="- topic/li " xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita" xtrc="li:1;8:21"><xref href="design_review_approval_of_preliminary_landscape_design_plan.dita" class="- topic/xref " xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita" xtrc="xref:1;9:26" type="topic"><?ditaot usertext?>Design Review approval of Preliminary Landscape Design Plan.</xref></li>
+                <li class="- topic/li " xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita" xtrc="li:2;10:21"><xref href="plan_check_approval_of_landscape_design_plan_and_irrigation_design_plan.dita" class="- topic/xref " xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita" xtrc="xref:2;12:26" type="topic"><?ditaot usertext?>Plan Check approval of Landscape Design Plan and Irrigation Design
+                        Plan.</xref></li>
+            </ul></p>
+        <p class="- topic/p " xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita" xtrc="p:2;15:12">The Landscape Design Plan and Irrigation Design Plan are to be thoroughly checked by
+            City. Staff for substantial compliance with the criteria contained in this document; the
+            Landscape. Design Plan shall be in substantial conformity with the Preliminary Landscape
+            Design Plan.</p>
+        <image href="images/3.png" id="image_zxn_sbn_g3c" scale="50" align="center" placement="inline" class="- topic/image " xtrf="file:/D:/landscaping%20guide/Topics/design_proposal_procedure.dita" xtrc="image:1;19:88"/>
+    </body>
+</topic>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="water_effcient_trees">
+    <title>Water-efficient trees</title>
+    <conbody><section>
+        <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_h14_wct_33c">
+            <sthead>
+                <stentry>Common Name</stentry>
+                <stentry>Botanic Name</stentry>
+            </sthead>
+            <strow>
+                <stentry>
+                    <p>Mexican Blue Palm</p>
+                </stentry>
+                <stentry>
+                    <p><i>Brahea armata* </i></p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p>Guadalupe Palm</p>
+                </stentry>
+                <stentry>
+                    <p><i>Brahea edulis </i></p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p>Pindo Palm</p>
+                </stentry>
+                <stentry>
+                    <p><i>Butia capitata* </i></p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p>Bottle Brush</p>
+                </stentry>
+                <stentry>
+                    <p><i>Callistemon citrinus* </i></p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p>Weeping Bottlebrush</p>
+                </stentry>
+                <stentry>
+                    <p><i>Callistemon viminalis </i></p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p>Incense Cedar</p>
+                </stentry>
+                <stentry>
+                    <p><i>Calocedrus decurrens </i></p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p>Crown of God Tree</p>
+                </stentry>
+                <stentry>
+                    <p><i>Cassia xcelsa </i></p>
+                </stentry>
+            </strow>
+        </simpletable>
+        <p> </p>
+    </section></conbody>
+</concept>

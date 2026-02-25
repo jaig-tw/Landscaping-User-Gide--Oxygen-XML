@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="water_efficient_shrubs">
+    <title>Water-efficient shrubs</title>
+    <conbody><section>
+        <p>
+                <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_hrf_rft_33c">
+                    <sthead>
+                        <stentry>Common Name</stentry>
+                        <stentry>Botanical Name</stentry>
+                    </sthead>
+                    <strow>
+                        <stentry>Wattle</stentry>
+                        <stentry><i>Acacia spp</i></stentry>
+                    </strow>
+                    <strow>
+                        <stentry>Lily-of-the-Nile</stentry>
+                        <stentry><i>Agapanthus africanus </i></stentry>
+                    </strow>
+                    <strow>
+                        <stentry>Agave</stentry>
+                        <stentry><i>Aloe spp* </i></stentry>
+                    </strow>
+                    <strow>
+                        <stentry>Tree Aloe</stentry>
+                        <stentry><i>Aloe arborescens</i></stentry>
+                    </strow>
+                    <strow>
+                        <stentry>Strawberry Tree</stentry>
+                        <stentry><i>Arbutes unedo* </i></stentry>
+                    </strow>
+                    <strow>
+                        <stentry>Manzanita</stentry>
+                        <stentry><i>Arctostaphylos spp* </i></stentry>
+                    </strow>
+                    <strow>
+                        <stentry>Sage/Wormwood</stentry>
+                        <stentry><i>Artemesia spp* </i></stentry>
+                    </strow>
+                </simpletable>
+        </p>
+    </section></conbody>
+</concept>

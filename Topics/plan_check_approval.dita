@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="plan_check_approval">
+    <title>Plan check approval - procedure</title>
+    <shortdesc> Include the entire Landscape Documentation Package of this document,</shortdesc>
+    <taskbody><context><p> Drawings submitted for Plan Check are to include the entire Landscape Documentation
+            Package of this document, including the Preliminary Landscape Design Plan</p></context><steps>
+            <step><cmd> Following all necessary planning and subdivision approvals, full construction
+                drawings may be submitted to the Building Division for approval through the City's
+                "Plan Check" process. </cmd></step>
+        </steps></taskbody>
+</task>

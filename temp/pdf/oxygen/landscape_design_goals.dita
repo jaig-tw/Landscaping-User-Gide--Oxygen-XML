@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\Writer\oxygen\temp\pdf\oxygen?><?workdir-uri file:/D:/Writer/oxygen/temp/pdf/oxygen/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="landscape_design_goals" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="topic:1;3:36" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="title:1;4:12">Landscape Design Goals</title>
+    <body class="- topic/body " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="body:1;5:11">
+        <p class="- topic/p " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="p:1;6:12">A landscape design manual and review procedures consider resource expenditure and ease of
+            use in achieving goals and objectives.</p>
+        <ul id="ul_phx_ysm_g3c" class="- topic/ul " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="ul:1;8:33">
+            <li class="- topic/li " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="li:1;9:17">
+                <ul id="ul_ml4_1tm_g3c" class="- topic/ul " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="ul:2;10:41">
+                    <li class="- topic/li " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="li:2;11:25">Support environmental conservation and enhancement within the community;
+                        recognize that a beautiful and efficient urban landscape design is integral
+                        to the community's and region's quality of life.</li>
+                </ul>
+            </li>
+            <li class="- topic/li " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="li:3;16:17">
+                <ul id="ul_gbf_btm_g3c" class="- topic/ul " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="ul:3;17:41">
+                    <li class="- topic/li " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="li:4;18:25">Demonstrate and build community supports for a conservation ethic through
+                        attractive, low maintenance and water efficient landscape design in the
+                        public realm.</li>
+                </ul>
+            </li>
+            <li class="- topic/li " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="li:5;23:17">
+                <ul id="ul_bdb_ctm_g3c" class="- topic/ul " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="ul:4;24:41">
+                    <li class="- topic/li " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="li:6;25:25">Encourage and require as necessary, aesthetically pleasing and functionally
+                        appropriate landscaping for private sector development projects; water
+                        efficient landscape design shall be addressed.</li>
+                </ul>
+            </li>
+            <li class="- topic/li " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="li:7;30:17">
+                <ul id="ul_ipp_ctm_g3c" class="- topic/ul " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="ul:5;31:41">
+                    <li class="- topic/li " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="li:8;32:25">Promote understanding of plant materials; many water conserving species are
+                        quite attractive and most conventional landscapes can prosper with much less
+                        water.</li>
+                </ul>
+            </li>
+            <li class="- topic/li " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="li:9;37:17">
+                <ul id="ul_fyc_dtm_g3c" class="- topic/ul " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="ul:6;38:41">
+                    <li class="- topic/li " xtrf="file:/D:/Writer/oxygen/landscape_design_goals.dita" xtrc="li:10;39:25">Provide standards and guidelines for suitable landscape design, to be used
+                        as criteria in the evaluation of design proposals. As far as feasible,
+                        criteria and review procedures shall consider ease of implementation.</li>
+                </ul>
+            </li>
+        </ul>
+    </body>
+</topic>
